@@ -37,3 +37,18 @@ body{
 .texto-pequeno{
     font-size: 28px;
 }
+.menu{
+    background-color: #CC8899;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    color: #EEE2DF;
+}
+.item-menu{
+    color:#EEE2DF;
+    font-size: 18px;
+    font-weight: 500;
+}
