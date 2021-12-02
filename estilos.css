@@ -63,3 +63,52 @@ body{
     margin-right: auto;
     border-bottom: 5px solid #CC8899;
 }
+.cardapio{
+    width: 1200px;
+    color:#B36A5E;
+    font-family: 'Kaushan Script';
+    font-size: 20px;
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 5px;
+    padding-top: 22px;
+    
+}
+.produtos{
+    width: 1200px;
+    font-family:'roboto' ;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 60px;
+
+}
+.texto-colunas{
+    column-count: 4;
+}
+.fotos{
+    background-color: #EEE2DF;
+    width: 1200px;
+    color: #B36A5E;
+    font-family: 'Kaushan Script';
+    font-size:20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: cover;
+    padding-top: 30px;
+    padding-bottom:45px;
+    
+}
+.bolos{
+    width: 200px;
+    height:200px;
+    border:5px solid;
+    object-fit: cover;
+    
+}
+.bolo-meio{
+    margin-left: 128px;
+    margin-right: 128px;
+}
